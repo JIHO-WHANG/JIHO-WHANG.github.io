@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author: 
   name             : "JIHO-WHANG"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/KakaoTalk_20211118_232251347.jpg"
   bio              : "Sookmyung Women's University."
   location         : "Seoul,South korea"
   email            : "jihowhang.tec.gmail.com"
